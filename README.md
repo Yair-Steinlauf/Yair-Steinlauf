@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Yair Steinlauf 👋
 
-<!--
-**Yair-Steinlauf/Yair-Steinlauf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Developer | Computer Science Student  
+Passionate about C++ development and software engineering.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills  
+
+- **Languages:** C++, Python  
+- **Tools:** Git, GitHub, Visual Studio, VS Code, Linux, STL  
+- **Concepts:** OOP, Design Patterns, Data Structures
+
+---
+
+## 🛠️ Experience  
+
+- Electronics Technician: Assembly, troubleshooting, quality improvement.  
+- Platoon Logistic Manager (IDF): Managed logistics, awarded for excellence.  
+- Team Leader (IDF): Led and trained combat soldiers.  
+- Arduino Instructor: Taught STEM skills to high school students.
+
+---
+
+## 📅 Availability  
+Open to student or part-time roles. References available upon request.
+
+---
