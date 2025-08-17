@@ -15,7 +15,7 @@ Passionate about C++ development and software engineering.
 
 ## 🛠️ Experience  
 
-- Electronics Technician: Assembly, troubleshooting, quality improvement.  
+- Electronics Technician: troubleshooting, quality improvement.  
 - Platoon Logistic Manager (IDF): Managed logistics, awarded for excellence.  
 - Team Leader (IDF): Led and trained combat soldiers.  
 - Arduino Instructor: Taught STEM skills to high school students.
